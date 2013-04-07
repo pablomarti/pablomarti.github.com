@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentation
-tagline: Something about the coder
+tagline: You son of a developer
 ---
 
 Hi, I'm Pablo Marti and I'm a developer... Working at <a href="http://greenmediaagency.com" target="_blank">Green
