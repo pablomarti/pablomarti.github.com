@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentation
-tagline: You son of a developer
+tagline: Another Developer Presentation Page ;)
 ---
 
 Hi, I'm Pablo Marti and I'm a developer... Working at <a href="http://greenmediaagency.com" target="_blank">Green
@@ -19,3 +19,4 @@ Watch this:
 <iframe width="560" height="315" src="http://www.youtube.com/embed/R4Rsp7l6t6E" frameborder="0" >
 </iframe>
 
+Bye
